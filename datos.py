@@ -1,0 +1,11 @@
+lote_inspecciones = [
+
+    {"id_reporte": "1234557", "estado": "Aprobado"},
+
+    {"id_reporte": "5496487", "estado": "Rechazado"},
+
+    {"id_reporte": "1234558", "estado": "Aprobado"},
+
+    {"id_reporte": "5496488", "estado": "Rechazado"}
+
+]
