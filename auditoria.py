@@ -19,4 +19,3 @@ with open ('errores_detectados.json', 'w') as archivo:
     json.dump(lista_errores,archivo)
 
 print(f"Auditoría finalizada. Total de alertas generadas: {total_alertas}")
-
